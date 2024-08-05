@@ -20,7 +20,7 @@ thiện dựa trên kết quả phân tích.
 Chúng tôi đã xây dựng một tập dữ liệu tiếng Việt cho nhiệm vụ phân tích cảm
 xúc theo khía cạnh. Tập dữ liệu này chứa các đánh giá bằng tiếng Việt về nhiều
 loại sách - truyện như: sách tâm lý, sách self-help, tiểu thuyết nước ngoài, truyện
-tranh... được crawl từ sàn thương mại điện tử [Tiki](https://tiki.vn/)
+tranh... được crawl từ sàn thương mại điện tử [Tiki](https://tiki.vn/).
 
 ## Phương pháp
 
